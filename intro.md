@@ -4,6 +4,22 @@
 
 ## Présentation du sujet
 
+
+
+Cette thèse porte sur la matérialisation de données culturelles. Cela signifie, d’une part, travailler avec des données qui décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales (Vane 2019, 9). D’autre part, ce travail prend la forme de matérialisations de données, c’est-à-dire en œuvrant à la création « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode* des données » (Jansen et al. 2015, 2). 
+
+
+
+
+
+
+
+
+
+
+
+
+
 *Thèse en recherche-création avec un corpus de données culturelles, qui a pour objectif d’explorer de nouvelles perspectives & forme d’accès sur ces archives institutionnelles, par le biais de matérialisations de données*
 
 
@@ -93,7 +109,7 @@ La différence entre les deux études de cas s’explique par le contexte (à ex
 - expérimentation:
   - requiert d’abord une phase d’accès et d’analyse des données: comme le travail de catalogage était encore en cours, participation aux discussions concernant les choix de structuration des données etc. 
   - ensuite, recherche-création comme complément/extension matérielle dans la salle du musée (matérialisation de données mais aussi du projet *Bayt wa balad*) pour une expérience incarnée et mutlisensorielle 
-- structuration en deux chapitres pour aborder le travail dit « préparatoire » nécessaire à la recherche-création avec les données du MPP
+- structuration en deux chapitres pour aborder le travail dit « préparatoire » nécessaire à la recherche-création avec les données du MPP (projet plus ambitieux: 2x plus de temps)
 
 La première étude de cas est donc un « cas simple » et la seconde un  « cas approfondi », ce qui permet de comparer les deux approches et les résultats obtenus. 
 
@@ -177,7 +193,14 @@ Le second chapitre est présente le premier cas d’étude: l’installation *C�
 
 
 
+(exemples
 
+[thèse Alix](https://udemontreal-my.sharepoint.com/personal/alix_chague_umontreal_ca/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Falix%5Fchague%5Fumontreal%5Fca%2FDocuments%2FPi%C3%A8ces%20jointes%2Fachague%5Fphd%2Dmss%5Fv1%2E1%2Epdf&parent=%2Fpersonal%2Falix%5Fchague%5Fumontreal%5Fca%2FDocuments%2FPi%C3%A8ces%20jointes) 
+
+thèses par articles
+
+- https://theses.hal.science/tel-03770337v2/document
+- https://theses.hal.science/tel-03854403)
 
 
 
