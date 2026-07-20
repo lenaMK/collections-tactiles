@@ -10,23 +10,13 @@ Cette thèse porte sur la matérialisation de données culturelles. Cela signifi
 
 
 
-
-
-
-
-
-
-
-
-
-
-*Thèse en recherche-création avec un corpus de données culturelles, qui a pour objectif d’explorer de nouvelles perspectives & forme d’accès sur ces archives institutionnelles, par le biais de matérialisations de données*
+*Thèse en recherche-création avec un corpus de données culturelles, qui a pour objectif d’explorer de nouvelles perspectives & forme d’accès à des collections, par le biais de matérialisations de données*
 
 
 
 La recherche et la création sont des pratiques souvent entremêlées. Dans le cas de ma thèse, je situe mon travail dans le cadre de la recherche-création car, d’une part, je mobilise les bases théoriques de ma recherche dans un processus de création; d’autre part, la pratique n’est pas un aboutissement de la recherche, je l’aborde comme un lieu d’expérimentation qui a le potentiel d’être révélateur ou catalyseur d’enjeux théoriques. Il ne s’agit pas « juste » de produire un objet culturel ou une création, mais de placer l’acte de création dans un processus plus large qui vise à contribuer à la production de connaissances en histoire de l’art. Ainsi, la diffusion de la recherche-création dans cette thèse cherche à devenir, comme proposé par Myriam Suchet, un moment de partage, où l’on peut « éprouver et donner à voir les transformations qui modifient nos manières de réfléchir » (2016, 69).
 
-Je pense et je crée avec des données culturelles, mais, par données culturelle, on peut entendre toute sortes de données. Il y a des formes de description systématique des collections conservées dans les institutions culturelles, ou encore des données issues de la billetterie d'une institution culturelle. Selon d’autres acteur·rice·s, les données culturelles sont des données qui caractérisent les habitudes des visiteur·eus·s de ces insittutions, que ce soit dans les salles d'exposition ou en ligne. Dans cette thèse, la sens donné au terme « données culturelles » se distance des pratiques en *marketing* et en analyse des habitudes de consommation pour se centrer sur la perspective d’historien·ne·s de l’art et de travailleur·se·s culturel·le·s. Le champs de recherche visé s’apparente ainsi à l’étude des institutions culturelles et de leurs collections, un domaine renouvelé par la place grandissante accordée aux méthodes et aux outils numériques dans le fonctionnement de ces institutions. La transformation des méthodes de travail fournit des moyens inédits de travail avec la collection, par la diffusion numérique des artefacts conservés dans les réserves ou avec les expositions virtuelles par exemple. Je m’aligne donc avec la définition fournie par Olivia Vane dans sa thèse *Timeline design for visualising cultural heritage data*: les données culturelles sont des données qui décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales (2019, 9). Il peut s’agir, par exemple, d’une collection d’œuvres d’art ou d’un catalogue raisonné, dont la description systématique est structurée dans un format lisible par (consignable dans?)  une machine. 
+Je pense et je crée avec des données culturelles, mais, par données culturelles, on peut entendre toute sortes de données. Il y a des formes de description systématique des collections conservées dans les institutions culturelles, ou encore des données issues de la billetterie d'une institution culturelle. Selon d’autres acteur·rice·s, les données culturelles sont des données qui caractérisent les habitudes des visiteur·eus·s de ces insittutions, que ce soit dans les salles d'exposition ou en ligne. Dans cette thèse, la sens donné au terme « données culturelles » se distance des pratiques en *marketing* et en analyse des habitudes de consommation pour se centrer sur la perspective d’historien·ne·s de l’art et de travailleur·se·s culturel·le·s. Le champs de recherche visé s’apparente ainsi à l’étude des institutions culturelles et de leurs collections, un domaine renouvelé par la place grandissante accordée aux méthodes et aux outils numériques dans le fonctionnement de ces institutions. La transformation des méthodes de travail fournit des moyens inédits de travail avec la collection, par la diffusion numérique des artefacts conservés dans les réserves ou avec les expositions virtuelles par exemple. Je m’aligne donc avec la définition fournie par Olivia Vane dans sa thèse *Timeline design for visualising cultural heritage data*: les données culturelles sont des données qui décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales (2019, 9). Il peut s’agir, par exemple, d’une collection d’œuvres d’art ou d’un catalogue raisonné, dont la description systématique est structurée dans un format lisible par (consignable dans?)  une machine. 
 
 Ce type de description présente l’opportunité d’étudier une collection en tant qu’ensemble, avec une approche quantitative. Anne Dymond emploie ainsi des indicateurs statistiques pour analyser les collections canadiennes dans son ouvrage *Diversity Counts: Gender, Race, and Representation in Canadian Art Galleries* (2019). Avant ma thèse, j’ai également travaillé en ce sens avec Valentine Desmorat, à partir des données publiées par le Musée d’art contemporain de Montréal (MAC). Nous avons produit des graphiques pour visualiser l’entrée des femmes artistes dans cette collection. Elle a poursuivi avec une analyse approfondie de ces graphiques au regard des archives institutionnelles et du contexte historique, menant ainsi à une étude féministe quantitative en histoire de l’art (Desmorat 2023).
 
@@ -52,7 +42,7 @@ C’est ce que j’ai choisi de faire pour ma thèse. Comme j’ai aussi une for
 
 
 
-Passage des données au récit: raconter des données pour les rendre plus accessibles?
+
 
 visualiser/cartographier (avec des données = espace numérique)
 
@@ -112,18 +102,6 @@ La différence entre les deux études de cas s’explique par le contexte (à ex
 - structuration en deux chapitres pour aborder le travail dit « préparatoire » nécessaire à la recherche-création avec les données du MPP (projet plus ambitieux: 2x plus de temps)
 
 La première étude de cas est donc un « cas simple » et la seconde un  « cas approfondi », ce qui permet de comparer les deux approches et les résultats obtenus. 
-
-
-
-
-
-### État des lieux en matérialisation de données culturelles (et pratiques connexes)
-
-- Des données à leur représentation
-- visualisation de données et cartographie
-- Survol des recherches et des pratiques en matérialisation de données culturelles
-
-
 
 
 
