@@ -62,3 +62,8 @@ plan de rédaction intro à valider
 
 - [ ] penser aux conclusions que j’aimerais tirer de la thèse / des chapitres ( cas d’études)
 
+
+
+
+
+> 

@@ -1,64 +1,30 @@
-# Intro
+# Collections tactiles. Recherche-création en matérialisation de données culturelles
+
+> L’outil juste répond à trois exigences : il est générateur d’efficience sans dégrader l’autonomie personnelle, il ne suscite ni esclaves ni maîtres, il élargit le rayon d’action personnel. L’homme a besoin d’un outil avec lequel travailler, non d’un outillage qui travaille à sa place. Il a besoin d’une technologie qui tire le meilleur parti de l’énergie et de l’imagination personnelles, non d’une technologie qui l’asservisse et le programme. (Illich 1973, 27)
+>
+
+La transformation numérique des institutions culturelles est au cœur de discours provenant du gouvernement, du milieu culturel et de la recherche (*Références à  ajouter*). En constante quête d’améliorations et de mise à niveau, le milieu culturel est souvent considéré « en retard » dans la course vers le progrès tracée par l’adoption de pratiques technologiques (*Références à  ajouter*). Toutefois, pour en faire une utilisation *conviviale* (au sens d’Ivan Illich), « il nous faut reconnaître qu’il existe non pas une façon d’utiliser les découvertes scientifiques, mais au moins deux » (Illich 1973, 12). Plutôt que de conduire à la spécialisation des tâches et à la centralisation des pouvoir, cette thèse s’aligne avec la proposition d’Ivan Illich dans l’idée de faire fructifier l’invention afin d’accroître le pouvoir et le savoir de chacun (Illich 1973, 12). Ainsi, la création, la mise en ligne et l’utilisation de données culturelles sont abordées dans une approche de recherche-création afin d’explorer « la liberté de façonner les objets qui [nous] entourent » (Illich 1973, 27). (*et afin de stimuler l’imagination personnelle et collective*)
+
+Si la recherche et la création sont des pratiques souvent entremêlées, je situe mon travail dans le cadre de la recherche-création car, d’une part, je mobilise les bases théoriques et techniques de ma recherche dans un processus de création; d’autre part, la pratique n’est pas un aboutissement de la recherche, je l’aborde comme un lieu d’expérimentation qui a le potentiel d’être révélateur ou catalyseur d’enjeux théoriques. Il ne s’agit pas « juste » de produire un objet culturel ou une création, mais de placer l’acte de création dans un processus plus large qui vise à contribuer à la production de connaissances en histoire de l’art. La diffusion de la recherche-création devient ainsi un moment de partage, où l’on peut « éprouver et donner à voir les transformations qui modifient nos manières de réfléchir » (Suchet 2016, 69).
+
+Ma pratique de recherche-création porte sur les données culturelles, c’est-à-dire des données issues du milieu artistique et dont l’étude rejoint la discipline de l’histoire de l’art. Il peut s’agir, par exemple, d’une collection d’œuvres d’art, d’un catalogue raisonné ou d’archives, dont la description est structurés sous la forme de données et donc lisible par une machine (Vane 2019, 9 ? pas forcément nécessaire comme référence). 
 
 
 
-## Présentation du sujet
+Ce type de description systématique présente l’opportunité d’étudier une collection en tant qu’ensemble, avec une approche quantitative. Anne Dymond emploie ainsi des indicateurs statistiques pour analyser les collections canadiennes dans son ouvrage *Diversity Counts: Gender, Race, and Representation in Canadian Art Galleries* (2019). J’ai également travaillé avec Valentine Desmorat sur les données publiées par le Musée d’art contemporain de Montréal (MAC). Nous avons produit des graphiques pour visualiser l’entrée des femmes artistes dans cette collection ([figure 1](#fig1)). Elle a poursuivi avec une analyse approfondie de ces graphiques au regard des archives institutionnelles et du contexte historique, menant ainsi à une étude féministe quantitative en histoire de l’art (Desmorat 2023).
+
+#### Mise en récit des données
 
 
 
-Cette thèse porte sur la matérialisation de données culturelles. Cela signifie, d’une part, travailler avec des données qui décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales (Vane 2019, 9). D’autre part, ce travail prend la forme de matérialisations de données, c’est-à-dire en œuvrant à la création « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode* des données » (Jansen et al. 2015, 2). 
+ce travail explore la pratique de la matérialisation de données, c’est-à-dire des pratiques de création « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode* des données » (Jansen et al. 2015, 2). 
+
+ employer une approche algorithmique « informée par les données » (*data driven*) pour explorer les collections et travailler avec celles-ci. En produisant des représentations visuelles telles que des cartes ou des graphiques, je crée d’autres moyens d’accès aux données culturelles.
+
+- visualiser/cartographier (avec des données = espace numérique)
+- matérialiser (redonner une forme avec laquelle on peut interagir dans l’espace physique, interactions physiques / tactiles)
 
 
-
-*Thèse en recherche-création avec un corpus de données culturelles, qui a pour objectif d’explorer de nouvelles perspectives & forme d’accès à des collections, par le biais de matérialisations de données*
-
-
-
-La recherche et la création sont des pratiques souvent entremêlées. Dans le cas de ma thèse, je situe mon travail dans le cadre de la recherche-création car, d’une part, je mobilise les bases théoriques de ma recherche dans un processus de création; d’autre part, la pratique n’est pas un aboutissement de la recherche, je l’aborde comme un lieu d’expérimentation qui a le potentiel d’être révélateur ou catalyseur d’enjeux théoriques. Il ne s’agit pas « juste » de produire un objet culturel ou une création, mais de placer l’acte de création dans un processus plus large qui vise à contribuer à la production de connaissances en histoire de l’art. Ainsi, la diffusion de la recherche-création dans cette thèse cherche à devenir, comme proposé par Myriam Suchet, un moment de partage, où l’on peut « éprouver et donner à voir les transformations qui modifient nos manières de réfléchir » (2016, 69).
-
-Je pense et je crée avec des données culturelles, mais, par données culturelles, on peut entendre toute sortes de données. Il y a des formes de description systématique des collections conservées dans les institutions culturelles, ou encore des données issues de la billetterie d'une institution culturelle. Selon d’autres acteur·rice·s, les données culturelles sont des données qui caractérisent les habitudes des visiteur·eus·s de ces insittutions, que ce soit dans les salles d'exposition ou en ligne. Dans cette thèse, la sens donné au terme « données culturelles » se distance des pratiques en *marketing* et en analyse des habitudes de consommation pour se centrer sur la perspective d’historien·ne·s de l’art et de travailleur·se·s culturel·le·s. Le champs de recherche visé s’apparente ainsi à l’étude des institutions culturelles et de leurs collections, un domaine renouvelé par la place grandissante accordée aux méthodes et aux outils numériques dans le fonctionnement de ces institutions. La transformation des méthodes de travail fournit des moyens inédits de travail avec la collection, par la diffusion numérique des artefacts conservés dans les réserves ou avec les expositions virtuelles par exemple. Je m’aligne donc avec la définition fournie par Olivia Vane dans sa thèse *Timeline design for visualising cultural heritage data*: les données culturelles sont des données qui décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales (2019, 9). Il peut s’agir, par exemple, d’une collection d’œuvres d’art ou d’un catalogue raisonné, dont la description systématique est structurée dans un format lisible par (consignable dans?)  une machine. 
-
-Ce type de description présente l’opportunité d’étudier une collection en tant qu’ensemble, avec une approche quantitative. Anne Dymond emploie ainsi des indicateurs statistiques pour analyser les collections canadiennes dans son ouvrage *Diversity Counts: Gender, Race, and Representation in Canadian Art Galleries* (2019). Avant ma thèse, j’ai également travaillé en ce sens avec Valentine Desmorat, à partir des données publiées par le Musée d’art contemporain de Montréal (MAC). Nous avons produit des graphiques pour visualiser l’entrée des femmes artistes dans cette collection. Elle a poursuivi avec une analyse approfondie de ces graphiques au regard des archives institutionnelles et du contexte historique, menant ainsi à une étude féministe quantitative en histoire de l’art (Desmorat 2023).
-
-
-
-### L’accès public aux collections
-
-En plus du potentiel d’analyse institutionnelle, ces données offrent de nouvelles formes de découverte des collections. En effet, la mission des institutions culturelles – musées, bibliothèques, centres d’archives, etc. – comporte notamment la valorisation et l’accès public à leurs collections.  
-
-
-
-#### accès numérique / en ligne
-
-Au Québec, le MAC et le Musée national des beaux-arts du Québec (MNBAQ), par exemple, ont fait un travail exemplaire d’accès public à leurs collections. Ces deux institutions ont créé des plateformes interactives qui permettent de consulter (presque) chaque objet dans leur collection, un tour de force rendu possible par la description systématique des objets dans un système de gestion de collection et son éditorialisation dans l’espace numérique. Je parle ici d’éditorialisation, plutôt que de simple publication, car un site comme le [MACrépertoire](https://macrepertoire.macm.org/) offre bien plus d’interactions avec la collection que la mise en ligne d’un document linéaire (Vitali Rosati 2018).
-
-Certaines de ces institutions vont donc travailler à la mise en ligne de leur données (Casemajor 2012, 82). L’accès public à ces données présente également l’opportunité pour d’autres acteur·rice·s de contribuer aux récits qui portent sur ces collections. 
-
-
-
-C’est ce que j’ai choisi de faire pour ma thèse. Comme j’ai aussi une formation en informatique, je peux employer une approche algorithmique « informée par les données » (*data driven*) pour explorer les collections et travailler avec celles-ci. En produisant des représentations visuelles telles que des cartes ou des graphiques, je crée d’autres moyens d’accès aux données culturelles.
-
-
-
-
-
-
-
-visualiser/cartographier (avec des données = espace numérique)
-
-matérialiser (redonner une forme avec laquelle on peut interagir dans l’espace physique, interactions physiques / tactiles)
-
- 
-
-#### accessibilité universelle - mutisensorielle
-
-
-
-
-
-
-
-### La matérialisation de données
 
 
 
@@ -68,14 +34,13 @@ matérialiser (redonner une forme avec laquelle on peut interagir dans l’espac
 
 ## Problématique
 
-> (examen de synthèse) La question qui animera ma recherche est la suivante : **comment la matérialisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles ?** Je mènerai cette recherche à partir de l’hypothèse selon laquelle la création de ces nouvelles formes d’accès passe par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale. À la croisée des matérialisations de données et des œuvres ou expériences *sensation*nelles, je vais expérimenter avec la fabrication d’objets qui incorporent des données culturelles.
+**comment la matérialisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles ?** 
+
+> (Ex synth)Je mènerai cette recherche à partir de l’hypothèse selon laquelle la création de ces nouvelles formes d’accès passe par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale. À la croisée des matérialisations de données et des œuvres ou expériences *sensation*nelles, je vais expérimenter avec la fabrication d’objets qui incorporent des données culturelles.
 
 
 
-notes/idées: 
-
-- Formuler une problématique à laquelle je peux répondre par la présentation de deux études de cas.
-- À quoi répondent les études de cas? elles mettent une pratique à l’épreuve
+-  réflexion transversale sur l’accessibilité, notamment par une approche multisensorielle
 
 ### Études de cas
 
