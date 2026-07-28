@@ -1,19 +1,45 @@
 # Collections tactiles. Recherche-création en matérialisation de données culturelles
 
+
+
 > L’outil juste répond à trois exigences : il est générateur d’efficience sans dégrader l’autonomie personnelle, il ne suscite ni esclaves ni maîtres, il élargit le rayon d’action personnel. L’homme a besoin d’un outil avec lequel travailler, non d’un outillage qui travaille à sa place. Il a besoin d’une technologie qui tire le meilleur parti de l’énergie et de l’imagination personnelles, non d’une technologie qui l’asservisse et le programme. (Illich 1973, 27)
 >
 
-La transformation numérique des institutions culturelles est au cœur de discours provenant du gouvernement, du milieu culturel et de la recherche (*Références à  ajouter*). En constante quête d’améliorations et de mise à niveau, le milieu culturel est souvent considéré « en retard » dans la course vers le progrès tracée par l’adoption de pratiques technologiques (*Références à  ajouter*). Toutefois, pour en faire une utilisation *conviviale* (au sens d’Ivan Illich), « il nous faut reconnaître qu’il existe non pas une façon d’utiliser les découvertes scientifiques, mais au moins deux » (Illich 1973, 12). Plutôt que de conduire à la spécialisation des tâches et à la centralisation des pouvoir, cette thèse s’aligne avec la proposition d’Ivan Illich dans l’idée de faire fructifier l’invention afin d’accroître le pouvoir et le savoir de chacun (Illich 1973, 12). Ainsi, la création, la mise en ligne et l’utilisation de données culturelles sont abordées dans une approche de recherche-création afin d’explorer « la liberté de façonner les objets qui [nous] entourent » (Illich 1973, 27). (*et afin de stimuler l’imagination personnelle et collective*)
+La transformation numérique des institutions culturelles est au cœur de discours provenant du gouvernement, du milieu culturel et de la recherche (*Références à  ajouter*). En constante quête d’améliorations et de mise à niveau, le milieu culturel est souvent considéré « en retard » dans la course vers le progrès tracée par l’adoption de pratiques technologiques (*Références à  ajouter, dont Lamqaddam et al. 2018*). Toutefois, pour en faire une utilisation *conviviale* (au sens d’Ivan Illich), « il nous faut reconnaître qu’il existe non pas une façon d’utiliser les découvertes scientifiques, mais au moins deux » (Illich 1973, 12). Plutôt que de conduire à la spécialisation des tâches et à la centralisation des pouvoir, cette thèse s’aligne avec la proposition d’Ivan Illich dans l’idée de faire fructifier l’invention afin d’accroître le pouvoir et le savoir de chacun (Illich 1973, 12). Ainsi, la création, la mise en ligne et l’utilisation de données culturelles sont abordées dans une approche de recherche-création afin d’explorer « la liberté de façonner les objets qui [nous] entourent » (Illich 1973, 27).[*et afin de stimuler l’imagination personnelle et collective*]
 
 Si la recherche et la création sont des pratiques souvent entremêlées, je situe mon travail dans le cadre de la recherche-création car, d’une part, je mobilise les bases théoriques et techniques de ma recherche dans un processus de création; d’autre part, la pratique n’est pas un aboutissement de la recherche, je l’aborde comme un lieu d’expérimentation qui a le potentiel d’être révélateur ou catalyseur d’enjeux théoriques. Il ne s’agit pas « juste » de produire un objet culturel ou une création, mais de placer l’acte de création dans un processus plus large qui vise à contribuer à la production de connaissances en histoire de l’art. La diffusion de la recherche-création devient ainsi un moment de partage, où l’on peut « éprouver et donner à voir les transformations qui modifient nos manières de réfléchir » (Suchet 2016, 69).
 
-Ma pratique de recherche-création porte sur les données culturelles, c’est-à-dire des données issues du milieu artistique et dont l’étude rejoint la discipline de l’histoire de l’art. Il peut s’agir, par exemple, d’une collection d’œuvres d’art, d’un catalogue raisonné ou d’archives, dont la description est structurés sous la forme de données et donc lisible par une machine (Vane 2019, 9 ? pas forcément nécessaire comme référence). 
+Ma pratique de recherche-création porte sur les données culturelles, c’est-à-dire des données issues du milieu artistique et dont l’étude rejoint la discipline de l’histoire de l’art. Il peut s’agir, par exemple, d’une collection d’œuvres d’art, d’un catalogue raisonné ou d’archives, dont la description est structurés sous la forme de données et donc lisible par une machine (Vane 2019, 9 ? [pas forcément nécessaire comme référence]). Ce type de description systématique présente l’opportunité d’étudier une collection en tant qu’ensemble, avec une approche quantitative. Anne Dymond emploie ainsi des indicateurs statistiques pour analyser les collections canadiennes dans son ouvrage *Diversity Counts: Gender, Race, and Representation in Canadian Art Galleries* (2019). Au cours d’une collaboration avec Valentine Desmorat, nous avons utilisé les données publiées par le Musée d’art contemporain de Montréal (MAC) pour produire des graphiques qui visualisent l’entrée des femmes artistes dans cette collection ([figure 1](#fig1)). Desmorat a poursuivi avec une analyse approfondie de ces graphiques au regard des archives institutionnelles et du contexte historique, menant ainsi à une étude féministe quantitative en histoire de l’art (Desmorat 2023).
+
+autres approches quantitatives des collections? 
+
+- guerrila girls & Joyce Kozloff « Statistics are the logical “proof” of discrimination. »
+- art hist
+  - Diamond → lire intro et conclu
+  - Desmorat → aller voir sa revue de litt.
+  - Joyeux-Prunel *L’art et la mesure. Histoire de l’art et méthodes quantitatives* → *Créer, compter : panorama cri!que de l’usage du quanta!f en art*  par Séverine Sofio, *Mesurer l'art sans compter : les méthodes d'évaluation  quantitative en question*, par Annie Verger 2008
+    - faire imprimer les sections? 
+    - (*L’art contemporain, une inforgraphie* brève mention )
+  - *Painting by numbers : data-driven histories of nineteenth-century art* by Diana Greenwald
+    Now 2021
+  - art public (*Matter of Maps* ? )
+  - à (re)lire Graze, Maxene. 2020. [“Museums Are Going Digital-and Borrowing From Data Viz in the Process.”](https://medium.com/nightingale/museums-are-going-digital-and-borrowing-from-data-viz-in-the-process-b5e3828b4000)
+- carto et hist art → voir s’il y a matière à faire un paragraphe là-dessus. Si oui, expliquer carto thématique // approche quantitative data-driven
+  - digital benin → provenances
+  - ex: Williams, Hannah, and Chris Sparks “Artists in Paris: Mapping the 18th-Century Art World.” 
+
+- tech
+  - kraütli 2016, vane 2019→ outil de visualisation chronologique pour les collections culturelles. Thèse en *Innovation Design Engineering* → design des outil, analyses et retours UI/UX
+  - Lamqaddam et al 2018. *When the tech kids are running too fast: Data visualisation through the lens of art history research* ? 
+- autres approches quantitatives ? 
+  - beaucoup ne vont pas forcément dans la direction de l’analyse des collections dans leur ensemble (étude de similarité Impett, retrouver des motifs Benoit DH2017? ) biblio: état de l’art → GLAM-data-interfaces
+  - (autres disciplines: histoire, travail avec les archives)
 
 
-
-Ce type de description systématique présente l’opportunité d’étudier une collection en tant qu’ensemble, avec une approche quantitative. Anne Dymond emploie ainsi des indicateurs statistiques pour analyser les collections canadiennes dans son ouvrage *Diversity Counts: Gender, Race, and Representation in Canadian Art Galleries* (2019). J’ai également travaillé avec Valentine Desmorat sur les données publiées par le Musée d’art contemporain de Montréal (MAC). Nous avons produit des graphiques pour visualiser l’entrée des femmes artistes dans cette collection ([figure 1](#fig1)). Elle a poursuivi avec une analyse approfondie de ces graphiques au regard des archives institutionnelles et du contexte historique, menant ainsi à une étude féministe quantitative en histoire de l’art (Desmorat 2023).
 
 #### Mise en récit des données
+
+
 
 
 
