@@ -11,7 +11,7 @@ Si la recherche et la création sont des pratiques souvent entremêlées, je sit
 
 Ma pratique de recherche-création porte sur les données culturelles, c’est-à-dire des données issues du milieu artistique et dont l’étude rejoint la discipline de l’histoire de l’art. Il peut s’agir, par exemple, d’une collection d’œuvres d’art, d’un catalogue raisonné ou d’archives, dont la description est structurés sous la forme de données et donc lisible par une machine (Vane 2019, 9 ? [pas forcément nécessaire comme référence]). Ce type de description systématique présente l’opportunité d’étudier une collection en tant qu’ensemble, avec une approche quantitative. Anne Dymond emploie ainsi des indicateurs statistiques pour analyser les collections canadiennes dans son ouvrage *Diversity Counts: Gender, Race, and Representation in Canadian Art Galleries* (2019). Au cours d’une collaboration avec Valentine Desmorat, nous avons utilisé les données publiées par le Musée d’art contemporain de Montréal (MAC) pour produire des graphiques qui visualisent l’entrée des femmes artistes dans cette collection ([figure 1](#fig1)). Desmorat a poursuivi avec une analyse approfondie de ces graphiques au regard des archives institutionnelles et du contexte historique (Desmorat 2023).
 
-Ces recherches menées sur des institutions canadiennes et québécoises s’inscrivent dans un courant plus large d’études féministes quantitatives en histoire de l’art. Celles-ci émergent notamment des mouvements de libérations des femmes aux États-Unis au cours des années 1960 et 1970, dont le célèbre essai Linda Nochlin « Why Have There Been No Great Women Artists ? » ([1973] 2015) et les interventions percutantes des Guerilla Girls (Figure? ). Joyce Kozloff, aujourd’hui confirmée parmi les membres fondatrices des Guerrila Girls, souligne l’efficacité d’une approche quantitative pour transformer le récit autour d’une institution et de sa collection. Les statistiques, ou même simplement compter les œuvres réalisées par des femmes ou le nombre d’expositions monographiques dédiées à des femmes, dévoilent une « preuve rationnelle » (*logical “proof”*) de la discrimination (2026). S’il existe d’autres façon de travailler avec des approches quantitatives en histoire de l’art (Joyeux-Prunel 2008, Greenwald 2021), cette thèse se concentre sur la mise en récit militante des données de collection, dans un but d’éducation et de sensibilisation à des enjeux politiques intrinsèques aux collections. Ainsi, le projet *Digital Benin* se concentre sur 5000+ objets originaires du Royaume du Bénin. Le travail avec les données permet à l’équipe de *Digital Benin* de dénoncer le pillage et la conservation majoritairement illégitime (?) de ces objets, aujourd’hui répartis parmi parmi 139 institutions et 21 pays (Digital Benin).
+Ces recherches menées sur des institutions canadiennes et québécoises s’inscrivent dans un courant plus large d’études féministes quantitatives en histoire de l’art. Celles-ci émergent notamment des mouvements de libérations des femmes aux États-Unis au cours des années 1960 et 1970, dont le célèbre essai Linda Nochlin « Why Have There Been No Great Women Artists ? » ([1973] 2015) et les interventions percutantes des Guerilla Girls (Figure? ). Joyce Kozloff, aujourd’hui confirmée parmi les membres fondatrices des Guerrila Girls, souligne l’efficacité d’une approche quantitative pour transformer le récit autour d’une institution et de sa collection. Les statistiques, ou même simplement compter les œuvres réalisées par des femmes ou le nombre d’expositions monographiques dédiées à des femmes, dévoilent une « preuve rationnelle » (*logical “proof”*) de la discrimination (2026). S’il existe d’autres façon de travailler avec des approches quantitatives en histoire de l’art (Joyeux-Prunel 2008, Greenwald 2021), cette thèse se concentre sur la mise en récit militante des données de collection, dans un but d’éducation et de sensibilisation à des enjeux politiques intrinsèques aux collections. À titre d’exemple, le projet *Digital Benin* se concentre sur 5000+ objets originaires du Royaume du Bénin. Le travail avec les données permet à l’équipe de *Digital Benin* de dénoncer le pillage et la conservation majoritairement illégitime (?) de ces objets, aujourd’hui répartis parmi parmi 139 institutions et 21 pays (Digital Benin).
 
 
 
@@ -25,7 +25,8 @@ Ces recherches menées sur des institutions canadiennes et québécoises s’ins
 - carto et hist art → voir s’il y a matière à faire un paragraphe là-dessus. Si oui, expliquer carto thématique // approche quantitative data-driven
   - digital benin → provenances
     Agbontaen-Eghafona, K., Azzi, M., Bodenstein, F., Coulson, I., de la  Croix, E., Ekhator-Obogie, O. G., Fine, J., Luther, A., Müller, D.,  Obobaifo, E., Oviahon, O. M., Plankensteiner, B., & Uboldi, G.  (2024, July 1). Digital Benin. Retrieved from https://digitalbenin.org/.
-  - ex: Williams, Hannah, and Chris Sparks “Artists in Paris: Mapping the 18th-Century Art World.” 
+  - Williams, Hannah, and Chris Sparks “Artists in Paris: Mapping the 18th-Century Art World.”
+  - Pamela Fletcher Anne Helmreich David Isarel Seth Erickson *Local/Global: Mapping Nineteenth Century London’s Art Market* 
   
 - approche avec données va de pair avec un côté tech & data viz
   - kraütli 2016, vane 2019→ outil de visualisation chronologique pour les collections culturelles. Thèse en *Innovation Design Engineering* → design des outil, analyses et retours UI/UX
@@ -51,9 +52,9 @@ ce travail explore la pratique de la matérialisation de données, c’est-à-di
 
 
 
+#### Revue de litt: matérialisation de données & œuvres connexes
 
-
-
+[nb: distinguer la matérialisation de données des œuvres qui matérialisent/font appel à des données]
 
 
 
