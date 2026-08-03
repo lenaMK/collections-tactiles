@@ -12,14 +12,22 @@ plan de rédaction intro à valider
 
 - [ ] sujet de recherche
 
-  - [ ] sujet: collections et données des collections 
+  - [x] sujet: collections et données des collections 
 
-    ~1 paragraphe?
-
-  - [ ] approches quantitatives et visuelles des collections: 
+  - [x] approches quantitatives et visuelles des collections: 
 
     - visualisation de données (inclut cartographie) → Passage des données au récit: raconter des données pour les rendre plus accessibles
-    - courte revue de litt (équivalent ex synth)
+
+    courte revue de litt → options ajout état de l’art: 
+
+    - art hist()
+      - art public (*Matter of Maps* ? )
+      - à (re)lire Graze, Maxene. 2020. [“Museums Are Going Digital-and Borrowing From Data Viz in the Process.”](https://medium.com/nightingale/museums-are-going-digital-and-borrowing-from-data-viz-in-the-process-b5e3828b4000)
+    - carto et hist art → voir s’il y a matière à faire un paragraphe là-dessus. Si oui, expliquer carto thématique // approche quantitative data-driven
+      - digital benin → provenances
+        Agbontaen-Eghafona, K., Azzi, M., Bodenstein, F., Coulson, I., de la  Croix, E., Ekhator-Obogie, O. G., Fine, J., Luther, A., Müller, D.,  Obobaifo, E., Oviahon, O. M., Plankensteiner, B., & Uboldi, G.  (2024, July 1). Digital Benin. Retrieved from https://digitalbenin.org/.
+      - Williams, Hannah, and Chris Sparks “Artists in Paris: Mapping the 18th-Century Art World.”
+      - Pamela Fletcher Anne Helmreich David Isarel Seth Erickson *Local/Global: Mapping Nineteenth Century London’s Art Market* 
 
   - [ ] matérialisation de données: 
 
