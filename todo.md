@@ -31,7 +31,21 @@ plan de rédaction intro à valider
 
   - [ ] matérialisation de données: 
 
-    - courte revue de litt 
+    - définition dans la littérature
+    - cas voisin *Life of a Building*
+    - (option) revue de pratiques: 
+      - Michèle Sergile, *Peau noire, masques blancs* → encodage du texte en forme visuelle tissuée pour souligner « "l'absurdité des termes Noir.e et Blanc.he et le manque flagrant de représentations positives des femmes dans ce livre » (*Sergile citée dans MNBAQ 2017-2018*)
+      - Casey Jenkins, *Casting my womb* → cycle menstruel *incoporé* dans le tricot et devient une visualisation/matérialisation du cycle
+        - (autographic design par le placement de la pelotte… )
+      - Joyce Wieland *Water Quilt* (?) matérialise un livre sous la forme d’une courtepointe
+    - élargir de l’art contemporain vers design et autres pratiques
+      - Maya Amer → hybridation entre le *tatreez* et la visualisation de données
+      - Giorgia Lupi & Stefanie Posavec, *dear data* → visualiser un sujet, choisir une façon de l’encoder puis de le représenter
+      - Ada K. Dietz → encoder des fonctions mathématique dans la logique du métier à tisser, résultat forme un motif propre à chaque fonction
+    - exemples sur les données 
+      - *Oiko-nomic Threads*, Afroditi Psarra, Maria Varela and Marinos Koutsomichalis → open data Manpower Employment Offices databases$
+      - *To Make One Particle* (2025) de Pansee ElAtta à la limite de cet exemple
+
     - idée de la thèse: approrter une approche multisensorielle, *embodied* à la découverte des collections
 
   - [ ] +enjeu transversal de l’accès 
