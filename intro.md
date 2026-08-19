@@ -39,53 +39,21 @@ Plusieurs artistes jouent également avec les normes et les pratiques d’encoda
 
 <figcaption style=" text-align: right " id="fig9">Figure 9: *To Make One Particle* (détail), Pansee Atta, 2025. Photographie publiée par l’artiste sur [Instagram](https://www.instagram.com/p/DHYjlPzxI5H/)</figcaption>
 
-Cette résidence de recherche-création a non seulement été l’occasion pour Atta de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale (ElAtta 2019). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser des onglets crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même une sensation de chaos. Alors que les participant·e·s étaient invité·e·s à « laisser leurs marques », la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible. L’approche matérielle des données transforme leur perception ainsi que les façons pour le public d’interagir avec elles. Dans ce cas limitrophe, la chercheuse-créatrice n’emploie pas le terme « matérialisation de données » elle-même, mais son processus créatif l’a tout de même amenée dans cette même voie.
+Cette résidence de recherche-création a non seulement été l’occasion pour Atta de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale (ElAtta 2019). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser des onglets crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même une sensation de chaos. Alors que les participant·e·s étaient invité·e·s à « laisser leurs marques », la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible. L’approche matérielle des données transforme leur perception ainsi que les façons pour le public d’interagir avec elles. Dans ce cas limitrophe, la chercheuse-créatrice n’emploie pas le terme « matérialisation de données » elle-même, mais son processus créatif l’a tout de même amenée dans cette même voie. Cet exemple conclut un riche panorama de pratiques dont la diversité des approches, particulièrement sur la mise en récit de données, sera mobilisée dans mes expérimentations de la matérialisation des données culturelles.
 
+Ainsi, la problématique centrale de ma thèse est la suivante: **comment la matérialisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles ?** Cette question traduit une réflexion transversale sur l’accessibilité: 
 
-
-
-
-## Problématique
-
-**comment la matérialisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles ?** 
-
-> (Ex synth)Je mènerai cette recherche à partir de l’hypothèse selon laquelle la création de ces nouvelles formes d’accès passe par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale. À la croisée des matérialisations de données et des œuvres ou expériences *sensation*nelles, je vais expérimenter avec la fabrication d’objets qui incorporent des données culturelles.
-
-
-
--  réflexion transversale sur l’accessibilité, notamment par une approche multisensorielle
-
-### Études de cas
-
-Une thèse par étude de cas
-
-La différence entre les deux études de cas s’explique par le contexte (à expliquer dans le *Plan de la thèse*? )
-
-#### MAC: 
-
-- données ouvertes publiées depuis plusieurs années
-- contexte: j’avais déjà travaillé avec ces données (avec Valentine) et avec l’institution (avec CIECO)
-- expérimentation: à partir de mes connaissances pré-existantes et « en consultation » avec leur équipe pour éclairer certaines incompréhensions / questions sur les données + avoir leurs perspectives sur l’angle abordé
-
-#### MPP: 
-
-- ouverture des données: oui (en théorie) mais… 
-  - pas d’utilisation connues à ce jour
-  - offerte par défaut dans le système de catalogage
-  - intention: alimenter la plateforme de cartographie numérique / atlas culturel *Bayt wa balad*
--  contexte: institution et contexte culturel entièrement nouveaux pour moi → stratégie: rejoindre l’équipe pour me familiariser avec leur travail et spécialisation
-- expérimentation:
-  - requiert d’abord une phase d’accès et d’analyse des données: comme le travail de catalogage était encore en cours, participation aux discussions concernant les choix de structuration des données etc. 
-  - ensuite, recherche-création comme complément/extension matérielle dans la salle du musée (matérialisation de données mais aussi du projet *Bayt wa balad*) pour une expérience incarnée et mutlisensorielle 
-- structuration en deux chapitres pour aborder le travail dit « préparatoire » nécessaire à la recherche-création avec les données du MPP (projet plus ambitieux: 2x plus de temps)
-
-La première étude de cas est donc un « cas simple » et la seconde un  « cas approfondi », ce qui permet de comparer les deux approches et les résultats obtenus. 
+- accès physique → approche multisensorielle
+- accès aux données  → (attention: choix → données ouvertes) littératie numérique 
+- accès aux collections → entité « symbolique » qui ne peut pas être visitée
 
 
 
 ## Cadre théorique
 
-penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat
+
+
+hypothèse selon laquelle la création de ces nouvelles formes d’accès passe par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale.
 
 - instrumentation de la création: Albers, Molnar
 

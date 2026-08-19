@@ -29,7 +29,7 @@ plan de rédaction intro à valider
       - Williams, Hannah, and Chris Sparks “Artists in Paris: Mapping the 18th-Century Art World.”
       - Pamela Fletcher Anne Helmreich David Isarel Seth Erickson *Local/Global: Mapping Nineteenth Century London’s Art Market* 
 
-  - [ ] matérialisation de données: 
+  - [x] matérialisation de données: 
 
     - définition dans la littérature
     - cas voisin *Life of a Building*
@@ -48,9 +48,7 @@ plan de rédaction intro à valider
 
     - idée de la thèse: approrter une approche multisensorielle, *embodied* à la découverte des collections
 
-  - [ ] +enjeu transversal de l’accès 
-
-- [ ] formulation de la problématique et des questions de recherche 
+- [ ] formulation de la problématique et des questions de recherche *NB: la formulation oriente le type de réponses attendues*
 
   - pourquoi c’est un sujet de recherche, pourquoi c’est important d’y réfléchir  → pas « juste » une pratique (ni neutre ni automatisable, mais située, ancrée dans une posture)
 
@@ -59,7 +57,7 @@ plan de rédaction intro à valider
     - penser le faire → cadre théorique
     - faire → métho r-c *matéralisation de données culturelles / cultural data phyz*
 
-  - NB: la formulation oriente le type de réponses attendues
+  - enjeu transversal de l’accès 
 
 - [ ] cadre théorique
 
@@ -85,6 +83,48 @@ plan de rédaction intro à valider
 - [ ] penser aux conclusions que j’aimerais tirer de la thèse / des chapitres ( cas d’études)
 
 
+
+
+
+
+
+
+
+
+
+### Études de cas
+
+Une thèse par étude de cas
+
+La différence entre les deux études de cas s’explique par le contexte (à expliquer dans le *Plan de la thèse*? )
+
+
+
+#### MONA
+
+- données sur lesquelles je travaille depuis plusieurs années = consituttion de la base de données
+- enrichissement des données = nouvelle perspective, nouveau récit
+- 
+
+#### MAC: 
+
+- données ouvertes publiées depuis plusieurs années
+- contexte: j’avais déjà travaillé avec ces données (avec Valentine) et avec l’institution (avec CIECO)
+- expérimentation: à partir de mes connaissances pré-existantes et « en consultation » avec leur équipe pour éclairer certaines incompréhensions / questions sur les données + avoir leurs perspectives sur l’angle abordé
+
+#### MPP: 
+
+- ouverture des données: oui (en théorie) mais… 
+  - pas d’utilisation connues à ce jour
+  - offerte par défaut dans le système de catalogage
+  - intention: alimenter la plateforme de cartographie numérique / atlas culturel *Bayt wa balad*
+- contexte: institution et contexte culturel entièrement nouveaux pour moi → stratégie: rejoindre l’équipe pour me familiariser avec leur travail et spécialisation
+- expérimentation:
+  - requiert d’abord une phase d’accès et d’analyse des données: comme le travail de catalogage était encore en cours, participation aux discussions concernant les choix de structuration des données etc. 
+  - ensuite, recherche-création comme complément/extension matérielle dans la salle du musée (matérialisation de données mais aussi du projet *Bayt wa balad*) pour une expérience incarnée et mutlisensorielle 
+- structuration en deux chapitres pour aborder le travail dit « préparatoire » nécessaire à la recherche-création avec les données du MPP (projet plus ambitieux: 2x plus de temps)
+
+La première étude de cas est donc un « cas simple » et la seconde un  « cas approfondi », ce qui permet de comparer les deux approches et les résultats obtenus. 
 
 
 
