@@ -27,81 +27,21 @@ J’explore donc, dans cette thèse, la représentation critique et située de d
 
 <figcaption style=" text-align: right " id="fig6">Figure 6:  *The Life of a Building*, Greta Grip et Lee Jones, 2021-2022. Montage d’images disponibles dans l’article de Jones et al. 2024</figcaption>
 
-Au cours d’une recension continue effectuée tout au long de ma recherche doctorale, j’ai également trouvé des créations et des œuvres d’art qui font usage de données, et parfois de données culturelle. Celle-ci ne sont toutefois pas catégorisées comme des matérialisations de données, car leur contexte de création et de production se situe généralement dans une pratique artistique plutôt que dans le domaine académique relié à l’appellation « matérialisation de données ». Dans de nombreux cas, les artistes ont recourt à l’utilisation de données ou à une forme d’encodage de l’information afin de véhiculer un message. Toutefois, c’est davantage un sujet encodé/exprimé par les données que les données elles-mêmes qui se trouvent au cœur du processus de création. [Maya Amer](https://mayaamerdesign.com/about), designer et conceptrice d’animation d’origine palestinienne, explore une hybridation entre le *tatreez* – la broderie en point de croix traditionnelle palestinienne – et la visualisation de données. Dans [*Every Stitch Is A Person* (2023)](https://verweymuseumhaarlem.nl/maya-amer/), la créatrice encode dans une animation un motif de broderie qui représente le nombre de décès engendrés par les massacres de l’armée Israélienne à Gaza en octobre 2023.
+Au cours d’une recension continue effectuée tout au long de ma recherche doctorale, j’ai également trouvé des créations et des œuvres d’art qui font usage de données, et parfois de données culturelle. Celle-ci ne sont toutefois pas catégorisées comme des matérialisations de données, car leur contexte de création et de production provient généralement d’une pratique artistique ou créative plutôt que du le domaine académique relié à l’appellation « matérialisation de données ». Je propose ici un bref panorama de ces pratiques afin de situer la matérialisation de données dans un plus vaste contexte.
+
+Dans de nombreux cas, les artistes et créateur·rice·s ont recourt à l’utilisation de données ou à une forme d’encodage de l’information afin de véhiculer un message. Toutefois, c’est davantage un sujet encodé/exprimé par les données que les données elles-mêmes qui se trouvent au cœur du processus de création. [Maya Amer](https://mayaamerdesign.com/about), designer et conceptrice d’animation d’origine palestinienne, explore une hybridation entre le *tatreez* – la broderie en point de croix traditionnelle palestinienne – et la visualisation de données. Dans [*Every Stitch Is A Person* (2023)](https://verweymuseumhaarlem.nl/maya-amer/), la créatrice encode dans une animation un motif de broderie qui représente le nombre de décès engendrés par les massacres de l’armée Israélienne à Gaza en octobre 2023. Également dans une approche créative du design de l’information, Giorgia Lupi et Stefanie Posavec expérimentent avec les façon d’encoder et de visualiser divers sujets du quotidien dans leur échange épistolaires de visualisations de données, publiées sous le titre *Dear Data* (2016). La structuration des données est toutefois secondaire à l’expérimentation avec le potentiel sémiotique de formes visuelles entièrement dessinées à la main. J’ai trouvé d’autres formes de matérialisation qui ne font pas usage de méthodes informatiques, comme l’ouvrage *Algebraic Expressions* d’Ada K. Dietz (2022 [1949]) documente des façons d’encoder une fonction mathématique dans un métier à tisser. Le sujet ou la « donnée » matérialisée par le motif est, dans ce cas, une fonction mathématique. 
+
+Plusieurs artistes jouent également avec les normes et les pratiques d’encodage de l’information. Par exemple, l’artiste [Michaëlle Sergile](https://www.michaellesergile.com/about) explore sur une façon d’encoder le texte de *Peau noire, masques blancs* (Franz Fanon) dans une forme visuelle tissée pour souligner « l'absurdité des termes Noir.e et Blanc.he et le manque flagrant de représentations positives des femmes dans ce livre » (*Sergile citée dans MNBAQ 2017-2018*). Dans *Casting off my womb*, Casey Jenkings tricote à partir de pelotes de laine placées dans son vagin au long d’une performance sur 28 jours. Le résultat peut ainsi être interprété comme une forme de matérialisation de son cycle menstruel, où le nombre de mailles représente la durée de la performance et la couleur encode le flux de ses menstruations. On retrouve également des œuvres faisant usage de « véritables » données, au sens informatique définit précédemment. Dans la majorité des cas, iels ont une aisance technique qui leur permet de manipuler et de transformer de données. Par exemple, Afroditi Psarra, Maria Varela and Marinos Koutsomichalis ont conçu une installation intitulée *Oiko-nomic Threads*, dans laquelle une machine à tricoter fabrique en temps réel un motif à partir d’un algorithme, lui-même alimenté par les données ouvertes du *Manpower Employment Offices*: « *The installation represents a system commenting on the notion of work through the production of a textile in real-time* » (2014).
+
+*To Make One Particle* (2025) de Pansee ElAtta est l’exemple le plus proche que j’ai trouvé du travail en matérialisation de données culturelles que je souhaite effectuer dans cette thèse. Il s’agit d’un projet de recherche-création qui allie l’exploration de données culturelles à leur matérialisation aux fins d’une médiation publique. Au cours d’une résidence au Tropen Museum dans le cadre du projet « *[Pressing Matter](https://pressingmatter.nl/): Ownership, Value and the Question of Colonial Heritage in Museums* », ElAtta travaille et crée à partir des enjeux de retour, de réparation et de réconciliation des collections constituées durant la période coloniale, et plus précisément sur les restes humains conservés dans cette institution. To Make One Particle* a d’abord pris la forme d’une performance et d’un atelier organisé en 2024, faisant recourt à 3968 onglets en papier compressé et usinés par laser portant les informations dites « tombales » à propos de chaque « entité » de restes humains conservée dans la collection. En mai 2025, ElAtta crée une installation muséale pour l’exposition « [Unfinished past: return, keep, or, …](https://amsterdam.wereldmuseum.nl/en/whats-on/exhibitions/unfinished-past-return-keep-or) » à partir de ces onglets, cette-fois en bambou, matérialisant les données de la collection ([Figure 9](#fig9)) ; le lieu lui permet également d’activer la collection dans son contexte spatiotemporel, alliant l’histoire du musée à son emplacement dans un cimetière aujourd’hui réaménagé en un parc (ElAtta 2025).
+
+<img src="../doc/img/4particles.webp" style="zoom: 33%;" />
+
+<figcaption style=" text-align: right " id="fig9">Figure 9: *To Make One Particle* (détail), Pansee Atta, 2025. Photographie publiée par l’artiste sur [Instagram](https://www.instagram.com/p/DHYjlPzxI5H/)</figcaption>
+
+Cette résidence de recherche-création a non seulement été l’occasion pour Atta de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale (ElAtta 2019). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser des onglets crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même une sensation de chaos. Alors que les participant·e·s étaient invité·e·s à « laisser leurs marques », la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible. L’approche matérielle des données transforme leur perception ainsi que les façons pour le public d’interagir avec elles. Dans ce cas limitrophe, la chercheuse-créatrice n’emploie pas le terme « matérialisation de données » elle-même, mais son processus créatif l’a tout de même amenée dans cette même voie.
 
 
-
-- Giorgia Lupi & Stefanie Posavec, *dear data* → visualiser un sujet, choisir une façon de l’encoder puis de le représenter
-- Ada K. Dietz → encoder des fonctions mathématiques dans la logique du métier à tisser, résultat forme un motif propre à chaque fonction
-
-Par exemple, l’artiste [Michaëlle Sergile](https://www.michaellesergile.com/about) encode le texte de *Peau noire, masques blancs*  (Franz Fanon) dans une forme visuelle tissée pour souligner « l'absurdité des termes Noir.e et Blanc.he et le manque flagrant de représentations positives des femmes dans ce livre » (*Sergile citée dans MNBAQ 2017-2018*). 
-
-- 
-- Casey Jenkins, *Casting my womb* → cycle menstruel *incoporé* dans le tricot et devient une visualisation/matérialisation du cycle
-  - (autographic design par le placement de la pelotte… )
-- Joyce Wieland *Water Quilt* (?) matérialise un livre sous la forme d’une courtepointe
-
-élargir de l’art contemporain vers design et autres pratiques
-
-- 
-
-exemples sur les données → requiert une aisance technique dans la manipulation et la transformation de données
-
-- *Oiko-nomic Threads*, Afroditi Psarra, Maria Varela and Marinos Koutsomichalis → open data Manpower Employment Offices databases$
-- *To Make One Particle* (2025) de Pansee ElAtta à la limite de cet exemple
-
-
-
-
-
-[métho? → ] collaboration entre artistes/créateur·rice·s et institutions, n’est pas toujours nécessaire pour accéder à des données de collections. En effet, les musées participent de plus en plus au mouvement d’accès ouvert, notamment par la mise en ligne et l’accès en données ouvertes à leurs collections. 
-
-
-
-> cette thèse se concentre sur la mise en récit militante des données de collection, dans un but d’éducation et de sensibilisation à des enjeux politiques intrinsèques aux collections
-
-
-
-
-
-
-
-
-
-C’est également pourquoi je préfère parler de représentation de *données*, par opposition au terme favorisé par certains spécialistes comme Robert Kosara par exemple (2007), car
-
-
-
-(*§ création de visualisations de données est une forme de commissariat / contre-commissariat de données ?*)
-
-
-
-
-
-
-
-
-
-
-
-
-
-De plus, l’une des ambitions de ce domaine est de faire connaître les origines multiples et les apports de différentes cultures à l’histoire de l’encodage et de la transmission de l’information[^1].  Il s’agit ainsi de reconnaître que les données – au sens d’informations enregistrées de façon à en « permettre le stockage, la transmission ou le traitement » ([GDT](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358482/donnee)) – n’ont pas été inventées avec les premiers ordinateurs, ni même par les bureaux de statistiques ou d’autres administrations au fonctionnement centré sur l’écriture. Face à l’amplification exponentielle de la place des données dans notre société, ce travail de reconnaissance historique vise notamment à décentrer le savoir occidental pour faire place à une diversité d’épistémologies. Les recherches en matérialisation de données se développent également en ce sens : de nouvelles pratiques émergent en référence aux autres façons (historiques, culturelles) de penser et d’interagir avec les données.
-
-
-
-
-
-
-
-- visualiser/cartographier (avec des données = espace numérique)
-- matérialiser (redonner une forme avec laquelle on peut interagir dans l’espace physique, interactions physiques / tactiles)
-
-
-
-#### Revue de litt: matérialisation de données & œuvres connexes
-
-[nb: distinguer la matérialisation de données des œuvres qui matérialisent/font appel à des données]
 
 
 
