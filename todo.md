@@ -10,7 +10,7 @@ doc
 
 plan de rédaction intro à valider
 
-- [ ] sujet de recherche
+- [x] sujet de recherche
 
   - [x] sujet: collections et données des collections 
 
@@ -48,7 +48,7 @@ plan de rédaction intro à valider
 
     - idée de la thèse: approrter une approche multisensorielle, *embodied* à la découverte des collections
 
-- [ ] formulation de la problématique et des questions de recherche *NB: la formulation oriente le type de réponses attendues*
+- [x] formulation de la problématique et des questions de recherche *NB: la formulation oriente le type de réponses attendues*
 
   - pourquoi c’est un sujet de recherche, pourquoi c’est important d’y réfléchir  → pas « juste » une pratique (ni neutre ni automatisable, mais située, ancrée dans une posture)
 
@@ -61,32 +61,23 @@ plan de rédaction intro à valider
 
 - [ ] cadre théorique
 
-  - pas de nouvelles idées, est-ce que c’est ok de rester sur ce qui était annoncé (en essayant de l’améliorer bien sûr)
+  - relire et annoter version exSynth
 
 - [ ] métho
 
-  - pareil, rien de nouveau, peut-être essayer de mieux situer le côté recherche-création
+  - relire et annoter version exSynth
+  - peut-être essayer de mieux situer le côté recherche-création
+  - question de la médiation de ces objets « Ces objets-là se débrouillent-ils seuls »
 
-- [ ] plan global (à déplacer après la problématique?)
+- [ ] plan et forme de la thèse
 
-  - pourquoi la thèse fonctionne
-  - questions transversales abordées tout du long
-
-- [ ] plan détaillé 
-
-  - comment chaque chapitre répond à la question de recherche
+  - présenter les cas d’études et comment, comment chaque cas d’étude répond à la question de recherche
+  - répondre à la problématique par des cahiers (par cas d’étude)
+  - pourquoi la thèse fonctionne, questions transversales abordées tout du long: situer la thèse dans la production de connaissances en histoire de l’art
 
 - [ ] (option) avant-propos: contexte de réalisation de la thèse et expérience passée
 
-- [ ] (option) annexe MONA: données culturelles et carte
-
 - [ ] penser aux conclusions que j’aimerais tirer de la thèse / des chapitres ( cas d’études)
-
-
-
-
-
-
 
 
 
