@@ -94,9 +94,9 @@ plan de rédaction intro à valider
 
 ### Études de cas
 
-Une thèse par étude de cas
+Une thèse par étude de cas: La différence entre les deux études de cas s’explique par le contexte (à expliquer dans le *Plan de la thèse*? )
 
-La différence entre les deux études de cas s’explique par le contexte (à expliquer dans le *Plan de la thèse*? )
+(exemples de thèses par études de cas ou articles: [thèse Alix](https://udemontreal-my.sharepoint.com/personal/alix_chague_umontreal_ca/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Falix%5Fchague%5Fumontreal%5Fca%2FDocuments%2FPi%C3%A8ces%20jointes%2Fachague%5Fphd%2Dmss%5Fv1%2E1%2Epdf&parent=%2Fpersonal%2Falix%5Fchague%5Fumontreal%5Fca%2FDocuments%2FPi%C3%A8ces%20jointes); thèses par articles: https://theses.hal.science/tel-03770337v2/document, https://theses.hal.science/tel-03854403)
 
 
 

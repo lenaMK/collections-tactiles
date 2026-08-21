@@ -1,10 +1,12 @@
-<figcaption style=" text-align: right ">Lena MK, août 2026</figcaption>
+<div style=" text-align: right ">Lena MK, août 2026</div>
 
-# Collections tactiles. Recherche-création en matérialisation de données culturelles
+<div style=" text-align: center "><b>Collections tactiles. Recherche-création en matérialisation de données culturelles</b></div>
+
+# Introduction
 
 
 
-## Introduction 
+## Présentation du sujet 
 
 > L’outil juste répond à trois exigences : il est générateur d’efficience sans dégrader l’autonomie personnelle, il ne suscite ni esclaves ni maîtres, il élargit le rayon d’action personnel. L’homme a besoin d’un outil avec lequel travailler, non d’un outillage qui travaille à sa place. Il a besoin d’une technologie qui tire le meilleur parti de l’énergie et de l’imagination personnelles, non d’une technologie qui l’asservisse et le programme. (Illich 1973, 27)
 >
@@ -39,7 +41,7 @@ Plusieurs artistes jouent également avec les normes et les pratiques d’encoda
 
 <figcaption style=" text-align: right " id="fig9">Figure 9: *To Make One Particle* (détail), Pansee Atta, 2025. Photographie publiée par l’artiste sur [Instagram](https://www.instagram.com/p/DHYjlPzxI5H/)</figcaption>
 
-Cette résidence de recherche-création a non seulement été l’occasion pour Atta de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale (ElAtta 2019). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser des onglets crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même une sensation de chaos. Alors que les participant·e·s étaient invité·e·s à « laisser leurs marques », la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible. L’approche matérielle des données transforme leur perception ainsi que les façons pour le public d’interagir avec elles. Dans ce cas limitrophe, la chercheuse-créatrice n’emploie pas le terme « matérialisation de données » elle-même, mais son processus créatif l’a tout de même amenée dans cette même voie. Cet exemple conclut un riche panorama de pratiques créatives dont la diversité des approches, particulièrement sur la mise en récit de données, sera mobilisée dans mes expérimentations de la matérialisation des données. Étant donné l’absence de littérature spécialisée sur la matérialisation de données culturelles, la problématique centrale de ma thèse est la suivante: **comment la matérialisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles ?** 
+Cette résidence de recherche-création a non seulement été l’occasion pour Atta de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale (ElAtta 2019). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser des onglets crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même une sensation de chaos. Alors que les participant·e·s étaient invité·e·s à « laisser leurs marques », la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible. L’approche matérielle des données transforme leur perception ainsi que les façons pour le public d’interagir avec elles. Dans ce cas limitrophe, la chercheuse-créatrice n’emploie pas le terme « matérialisation de données » elle-même, mais son processus créatif l’a tout de même amenée dans cette même voie. Cet exemple conclut un riche panorama de pratiques créatives dont la diversité des approches, particulièrement sur la mise en récit de données, sera mobilisée dans mes expérimentations de la matérialisation des données. Toutefois, de cet état des lieux émerge également un premier constat est qu’il n’existe encore que très peu de matérialisations de données culturelles. Face à ce domaine encore peu exploré et dans le but d’y contribuer une documentation spécialisée, la problématique centrale de ma thèse est la suivante: **comment la matérialisation de données peut-elle offrir de nouvelles formes d’accès aux données culturelles ?** 
 
 Cette question tout d’abord traduit une réflexion transversale sur l’accessibilité et s’arrime notamment sur trois enjeux: l’accès aux collections, l’accès aux données et l’accès physique aux installations. Les collections sont au cœur du travail des institutions muséales (source: définition musée ICOM? ). Leurs dimensions s’étendent bien au-delà des salles d’expositions et de la programmation publique: entre les réserves, les ateliers de conservation-restauration, les expositions itinérantes et les prêts, la notion de collection peut donner l’impression d’être une entité symbolique ou abstraite. C’est dans la pratique du catalogage qu’elle prend forme, avec la documentation systématique de chaque objet de la collection. Le catalogue *saisit* la collection en tant qu’ensemble, permet d’explorer la collection et de travailler avec. Il s’agit toutefois d’un outil de travail interne, destiné aux membres du personnel. 
 
@@ -108,25 +110,6 @@ Cette thèse a donc pour objectif d’expérimenter avec une pratique de recherc
 
 
 Le second chapitre est présente le premier cas d’étude: l’installation *Célébration de données molles* à propos de la collection du Musée d’art contemporain de Montréal (MAC). 
-
-
-
-
-
-
-
-(exemples
-
-[thèse Alix](https://udemontreal-my.sharepoint.com/personal/alix_chague_umontreal_ca/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Falix%5Fchague%5Fumontreal%5Fca%2FDocuments%2FPi%C3%A8ces%20jointes%2Fachague%5Fphd%2Dmss%5Fv1%2E1%2Epdf&parent=%2Fpersonal%2Falix%5Fchague%5Fumontreal%5Fca%2FDocuments%2FPi%C3%A8ces%20jointes) 
-
-thèses par articles
-
-- https://theses.hal.science/tel-03770337v2/document
-- https://theses.hal.science/tel-03854403)
-
-
-
-
 
  La thèse, comme retour réflexif et mise en commun finale, a donc pour but de rassembler de façon accessible et pérenne les idées, les références et des extraits du protocole. Le format visé sera donc l’autoédition de cahiers/zines. Le respect des standards d’édition numérique permet de considérer les principes d’accessibilité universelle, le libre-accès garantit un accès économique (et l’impression sur demande permet de produire des copies papier en quantités responsables).
 
