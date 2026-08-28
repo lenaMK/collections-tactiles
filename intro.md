@@ -51,37 +51,36 @@ Les politiques gouvernementales d’ouverture de données (source: MCC) ainsi qu
 
 La matérialisation de données apporte encore un tournant différent à l’accès aux données, en explorant comment des représentations physiques de données, créées avec l’assistance d’un ordinateur, peuvent soutenir la cognition, la communication, l’apprentissage, la résolution de problèmes et la prise de décision en lien avec des données (Jansen et al. 2015, 8). Ces objets tangibles et palpables présentent une approche alternative aux données, habituellement conçues dans et pour l’espace numérique. Cette traduction peut réduire le fossé de la littératie numérique (Lean 2020), tout en offrant également une approche plus accessible universellement lorsqu’elle est pensée de façon multisensorielle (Ebermann et Keck 2024; Pittarello et Semenzato 2024). On retrouve cet assemblage entre tactilité, multisensorialité et accessibilité dans le milieu du design sensoriel (*sensory design*), sujet central de l’exposition *The Senses: Design Beyond Vision* au Cooper Hewitt Smithsonian Design Museum (Lupton, Lipps, et Cooper Hewitt 2018). La démultiplication des sens visés lors du design d’un objet permet de « recevoir de l’information, explorer le monde, ressentir de la joie, de la fascination et des connexion sociales, quelles que soient nos capacités sensorielles » (Lupton et Lipps 2018, 9). Ellen Lupton et Andreas Lipps dénoncent ainsi la domination du sens visuel dans la production de connaissances occidentales, tout en valorisant le savoir sensoriel (*sensory knowing*) qui fait qu’un objet gagne en signification et en valeur par son expérience incarnée (Lupton et Lipps 2018, 18). Cette approche du « *all senses design* » (Mau 2018, 21‑23) s’arrime donc de façon complémentaire à la pratique de la matérialisation de données. Je chercherai donc à augmenter l’accessibilité, tant physique qu’intellectuelle, aux collections et aux données culturelles par le biais de la matérialisation de données.
 
-Pour répondre à ma problématique sur les formes d’accès que facilite la matérialisation de données culturelles, cette thèse examine trois cas d’études sur la fabrication d’objets qui incorporent ce type de données. Ainsi, chacun de ces terrains de recherche et d’expérimentation est lié à une institution culturelle qui met à disposition des données ouvertes à propos de sa collection. Je travaille ensuite avec ces données, tout d’abord avec une approche algorithmique 
-
-
-
-— 
-
-
-
-
-
-Des questions connexes seront également abordées dans le cadre de cette recherche. D’une part, il s’agira d’évaluer l’utilisation d’un protocole pour mener une recherche-création. Son usage répété au cours de la thèse permettra un travail réflexif sur le protocole lui-même, sur son usage et sa pertinence pour la démarche envisagée. De l’autre, je considère les données produites par des institutions culturelles comme faisant partie des archives institutionnelles. Cela m’amènera à réfléchir aux méthodologies existantes pour étudier et pour utiliser ces données, en recherche ainsi que dans divers cadres de diffusion alternatifs.
-
-
-
-e pratique de recherche-création que j’ai développée dans le cadre de mon parcours doctoral. Cette pratique 
+Pour répondre à la problématique, cette thèse examine trois cas d’études sur la fabrication d’objets qui incorporent ce type de données. Ainsi, chacun de ces terrains de recherche et d’expérimentation est lié à une institution culturelle qui met à disposition des données ouvertes à propos de sa collection. Je travaille ensuite avec ces données, en combinant une approche algorithmique avec des expériementation manuelle et matérielles, pour créer une installation met de l’avant leur contenu. Je mène ce travail à partir de l’hypothèse selon laquelle ce processus nécéssite une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale. Je défendrai d’abord cette posture dans la présentation de mon cadre théorique, avant de poursuivre plus en détail sur la méthodologie de recherche-création que j’ai élaborée dans ce contexte.
 
 ## Cadre théorique
 
-Je mènerai cette recherche à partir de l’hypothèse selon laquelle la création de ces nouvelles formes d’accès passe par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale
+Pour intégrer la matérialisation de données dans mon processus de recherche, et plus particulièrement pour la penser comme une façon de *faire* qui se veut critique (*critical making*) (Berger, Dombrowski, et al. 2024), il faut tout d’abord situer cette pratique algorithmique et créative dans un cadre théorique qui permet d’élucider les liens entre contraintes et libertés posées par la technicité du processus de création. Je me tourne donc vers des modèles de « l’artiste-ingénieure \[…,\] une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit » (Soulard 2021, 261). Plus spécifiquement encore, étant donné que j’emploie des méthodes algorithmiques pour créer les matérialisation de données, je travaille la notion d’image programmée proposée par Ida Soulard (2021, 260) dans le contexte de la pensée textile. 
 
-Pour intégrer la matérialisation de données dans mon processus de recherche, et plus particulièrement pour la penser comme une façon de *faire* qui se veut critique (*critical making*) (Berger, Dombrowski, et al. 2024), il faut tout d’abord situer cette pratique algorithmique et créative dans un cadre théorique qui permet d’élucider les liens entre contraintes et libertés posées par la technicité du processus de création. Je me tourne donc vers des modèles de « l’artiste-ingénieure \[…,\] une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit » (Soulard 2021, 261). Plus spécifiquement encore, étant donné que j’emploie  des méthodes algorithmiques pour créer les matérialisation de données, 
+- histoire du lien entre informatique et métier à tisser
+  - Données 
+  - logique binaire
+  - jacquart
+  - rule-based art
+- *Du tissage* Albers
+- machine imaginaire molnar
+- pensée textile, sensibilité tactile 
 
-[Image programmée](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22image+programm%C3%A9e%22&btnG=)
-
-et ainsi que des méthodes de travail manuelles 
+Ingold & co? ou pas…
 
 
 
 
 
-## 
+
+
+
+
+> Penser l’artisanat comme une technologie et la technologie comme une pratique artisanale
+
+
+
+
 
 
 
